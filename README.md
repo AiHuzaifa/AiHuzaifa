@@ -1,69 +1,78 @@
-<h1 align="center">Hi 👋, I'm Huzaifa Aftab</h1>
-<h3 align="center">Machine Learning & Deep Learning Enthusiast | Python & C++ Developer | Neural Networks</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=I'm+Huzaifa+Aftab;Machine+Learning+Enthusiast;Deep+Learning+Enthusiast;AI+%26+Automation+Specialist" alt="Typing Animation" />
+</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"/></a>
-  <a href="https://www.freelancer.com/u/huzaifa306" target="_blank"><img src="https://img.shields.io/badge/Freelancer-Profile-29b2fe?style=flat&logo=freelancer"/></a>
-  <a href="mailto:huzaifaaftab614@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"/></a>
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"/>
+  </a>
+  <a href="https://www.freelancer.com/u/huzaifa306" target="_blank">
+    <img src="https://img.shields.io/badge/Freelancer-Profile-29b2fe?style=flat&logo=freelancer"/>
+  </a>
+  <a href="mailto:huzaifaaftab614@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"/>
+  </a>
 </p>
 
 ---
 
-### 🚀 About Me
+## 🧠 About Me
 
-I'm a Python and C++ developer diving deep into **Machine Learning, Deep Learning, and Neural Networks**. I've built several small 2D Python games from scratch, and I work regularly with **NumPy, Pandas, Matplotlib, TensorFlow, and Scikit-learn**. I'm currently deepening my understanding of neural networks and expanding from classic ML into deep learning architectures.
+I'm passionate about **Machine Learning, Deep Learning, AI Automation, and building practical technology solutions**.
 
-- 🔭 Currently building: small ML/DL projects and 2D Python games
-- 🌱 Currently learning: Neural Networks & Deep Learning (TensorFlow, Scikit-learn)
-- 💻 Languages: Python, C++
-- 📚 Background: Bachelor of Electrical Engineering — NUST, Islamabad (2023–2027)
-- 💬 Ask me about: Python, ML/DL fundamentals, NumPy/Pandas/Matplotlib, game development
+I work with machine learning and deep learning frameworks while also building automation systems using **no-code tools, APIs, workflows, and CRM platforms**.
 
----
-
-### 🧠 Focus Areas
-
-**Machine Learning & Deep Learning**
-- Working with **NumPy**, **Pandas**, and **Matplotlib** for data handling, analysis, and visualization
-- Building models with **Scikit-learn** for classic ML tasks
-- Learning **TensorFlow** and neural network fundamentals — moving from classic ML into deep learning
-- Exploring how trained models can be applied to real problems, not just theory
-
-**Python & C++ Development**
-- Built multiple small **2D Python games** from the ground up (game logic, mechanics, rendering)
-- Comfortable across the stack: scripting, data processing, and lower-level programming in C++
-- Using Git for version control on all projects
+- 🎓 Bachelor of Electrical Engineering — NUST, Islamabad
+- 🤖 Focused on Machine Learning & Deep Learning
+- ⚙️ Building AI-powered automation and workflow systems
+- 🔗 Working with APIs, webhooks, no-code automation, and CRM systems
+- 🧠 Exploring Neural Networks, Computer Vision, NLP, and AI applications
+- 🚀 Interested in building practical AI solutions that solve real-world problems
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
-**Machine Learning & Deep Learning**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-4B8BBE?style=flat)
-
-**Programming**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-**Game Development**
-![Pygame](https://img.shields.io/badge/Pygame-000000?style=flat&logo=python&logoColor=white)
-![2D Games](https://img.shields.io/badge/2D%20Game%20Dev-6A0DAD?style=flat)
+| Property | Data |
+|---|---|
+| **Language / IDE** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) |
+| **Domain Knowledge** | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00A86B?style=flat) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-4285F4?style=flat) ![AI Automation](https://img.shields.io/badge/AI%20Automation-8A2BE2?style=flat) ![No Code Automation](https://img.shields.io/badge/No--Code%20Automation-FF9800?style=flat) ![CRM](https://img.shields.io/badge/CRM-00897B?style=flat) |
+| **CI / CD & Version Control** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white) |
+| **OS** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) |
+| **Tools & Platforms** | ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
+| **Machine Learning / Deep Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-85C1E9?style=flat) |
+| **No-Code Automation** | ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white) ![Make](https://img.shields.io/badge/Make.com-6D00CC?style=flat) ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white) |
+| **CRMs** | ![GoHighLevel](https://img.shields.io/badge/GoHighLevel-000000?style=flat) ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white) |
+| **Automation** | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white) ![APIs](https://img.shields.io/badge/APIs-4285F4?style=flat) ![Webhooks](https://img.shields.io/badge/Webhooks-6C63FF?style=flat) |
 
 ---
 
-### 💼 Also Worth Knowing
+## 🤖 Machine Learning & Deep Learning
 
-Alongside my ML/DL work, I have professional experience building AI automation systems and CRM workflows (GoHighLevel, n8n, AI voice agents) for businesses — happy to talk about that too, but my main focus right now is machine learning, deep learning, and neural networks.
+- Machine Learning algorithms and model development
+- Neural Networks and Deep Learning
+- Computer Vision with **OpenCV**
+- Natural Language Processing with **NLTK**
+- Data analysis and visualization using **Pandas** and **Matplotlib**
+- Model development using **Scikit-learn, TensorFlow, PyTorch, and Keras**
+- Exploring practical AI applications and real-world datasets
 
 ---
 
-### 📊 GitHub Stats
+## ⚙️ AI Automation & CRM
+
+Alongside my ML/DL work, I have hands-on experience building automation systems and CRM workflows.
+
+- **GoHighLevel:** CRM, pipelines, workflows, forms, calendars, triggers, funnels and automations
+- **n8n, Make.com & Zapier:** No-code/low-code workflow automation
+- **APIs & Webhooks:** Connecting different applications and services
+- **AI Automation:** Building workflows using AI tools and LLMs
+- **CRM Automation:** Lead capture, lead routing, follow-ups, appointment reminders and pipeline automation
+- **AI Voice Agents:** Working with AI-powered voice automation systems
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
@@ -72,10 +81,18 @@ Alongside my ML/DL work, I have professional experience building AI automation s
 
 ---
 
-### 📫 Let's Connect
+## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:huzaifaaftab614@gmail.com">📧 huzaifaaftab614@gmail.com</a> &nbsp;|&nbsp;
-  📞 +92 314-0479220 &nbsp;|&nbsp;
-  <a href="https://www.freelancer.com/u/huzaifa306">💼 Freelancer.com</a>
+  <a href="mailto:huzaifaaftab614@gmail.com">
+    📧 huzaifaaftab614@gmail.com
+  </a>
+  &nbsp; | &nbsp;
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    🔗 LinkedIn
+  </a>
+  &nbsp; | &nbsp;
+  <a href="https://www.freelancer.com/u/huzaifa306" target="_blank">
+    💼 Freelancer.com
+  </a>
 </p>
