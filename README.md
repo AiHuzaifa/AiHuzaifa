@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/huzaifa-aftab-7144262a7/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"/>
   </a>
   <a href="https://www.freelancer.com/u/huzaifa306" target="_blank">
