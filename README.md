@@ -13,7 +13,7 @@
   <a href="https://www.freelancer.com/u/huzaifa306" target="_blank">
     <img src="https://img.shields.io/badge/Freelancer-Profile-29b2fe?style=flat&logo=freelancer"/>
   </a>
-  <a href="mailto:huzaifaaftab614@gmail.com">
+  <a href="mailto:huzaifaaftab613@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"/>
   </a>
 </p>
@@ -97,7 +97,7 @@ Alongside my ML/DL work, I have hands-on experience building automation systems 
 
 <p align="center">
   <a href="mailto:huzaifaaftab614@gmail.com">
-    📧 huzaifaaftab614@gmail.com
+    📧 huzaifaaftab613@gmail.com
   </a>
   &nbsp; | &nbsp;
   <a href="YOUR_LINKEDIN_URL" target="_blank">
